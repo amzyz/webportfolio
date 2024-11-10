@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Visual Argument</title>
+<link href="main.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<h1>Here is my Visual Argument!</h1>
+<h2>image</h2>
+<p>This visual argument aims to say a lil something abt AI</p>
+<img src="VisArg.png" alt="Vis Arg." Title="AI is the ultimate electricity hog" width="600" height="365">
+</body>
+</html>
